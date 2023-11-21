@@ -347,5 +347,6 @@ header('location: index.php');
 ?>
 ```
 
-![image](https://github.com/Agussetiaa/Lab8Web./assets/115542822/3713f8dc-4ce0-48e1-9776-cd5b631926ba)
+<img width="583" alt="image" src="https://github.com/Agussetiaa/Lab8Web./assets/115542822/513bdb40-002e-44e6-b5b3-597e27c0dfda">
+
 
