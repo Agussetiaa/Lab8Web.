@@ -1,4 +1,4 @@
-# Lab8Web.
+# Lab8_Web.
 
 ## Langkah-langkah Praktikum
 ## Persiapan
