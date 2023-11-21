@@ -211,3 +211,10 @@ if (isset($_POST['submit'])) {
 </body>
 </html>
 ```
+
+<img width="959" alt="Screenshot 2023-11-21 125045" src="https://github.com/Agussetiaa/Lab8Web./assets/115542822/f649d986-1dfc-4880-a933-c2f3e2cffaee">
+
+
+<img width="960" alt="Screenshot 2023-11-21 124842" src="https://github.com/Agussetiaa/Lab8Web./assets/115542822/b403af0c-24c1-405d-9e17-951947f49d05">
+
+
