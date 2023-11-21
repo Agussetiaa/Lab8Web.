@@ -13,7 +13,7 @@ Untuk menjalankan MySQL Server dari menu XAMPP Contol.
 
 ## Membuat Database: Studi Kasus Data Barang
 
-<img width="724" alt="image" src="https://github.com/Agussetiaa/Lab8Web./assets/115542822/2fcfa5aa-29f2-4fb5-b9e4-a9ae5619120f">
+<img width="372" alt="image" src="https://github.com/Agussetiaa/Lab8_Web./assets/115542822/fece3632-7a9b-4e13-a838-00013eae0c6b">
 
 ## Membuat Database
 ```
